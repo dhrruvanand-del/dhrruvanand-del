@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dhruv!
+# Hi there 👋, I'm Dhrruv!
 - 🔭 I’m a **Class 11 PCM student** passionate about **Theoretical Physics and Mathematics**.
 - 💻 I build **Python projects** to simulate physics concepts and classic games.
 - 🌍 Check out my [Python-Games](https://github.com/dhrruvanand-del/Python-Games) and [Python-Projects](https://github.com/dhrruvanand-del/Python-Projects)!
