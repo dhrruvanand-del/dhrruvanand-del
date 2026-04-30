@@ -25,7 +25,20 @@ Would you like me to:
 1. **Draft a full `README.md` template** for one of your repos?
 2. **Help you create a GitHub Profile README**?
 3. **Review your existing `requirements.txt`** to ensure it’s complete?
-4. 
+
+   # 🎮 Python-Games
+A collection of classic games built with Python.
+
+## 📌 Games
+   Game | Description | How to Run | Screenshot |
+ |------|-------------|------------|------------|
+ | Hangman | Guess the word before the stickman dies! | `python hangman.py` | ![Hangman](link-to-gif) |
+ | Ping Pong | 2-player paddle game | `python pingpong.py` | ![Ping Pong](link-to-gif) |
+
+## 📦 Requirements
+Install the required packages with:
+```bash
+pip install -r requirements.txt
 
 <!--
 **dhrruvanand-del/dhrruvanand-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
