@@ -16,6 +16,13 @@
  | Hangman | Guess the word! | ![Hangman](link-to-gif) |
  | Ping Pong | 2-player paddle game | ![Ping Pong](link-to-gif) |
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
+![Requirements](https://img.shields.io/badge/Requirements-up%20to%20date-brightgreen)
+
+![GitHub stars](https://img.shields.io/github/stars/dhrruvanand-del/Python-Games?style=social)
  ---
 ---
 ### **Final Thoughts**
